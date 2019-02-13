@@ -1,0 +1,21 @@
+For n = 10000
+Time taken for insertion sort: 0.067796s
+Time taken for selection sort: 0.096462s
+Time taken for bubble sort: 0.222098s
+Time taken for mergesort: 0.001384s
+Time taken for quicksort: 0.000991s
+Time taken for heapsort: 0.001750s
+For n = 100000
+Time taken for insertion sort: 5.893448s
+Time taken for selection sort: 9.530052s
+Time taken for bubble sort: 25.178639s
+Time taken for mergesort: 0.016268s
+Time taken for quicksort: 0.012415s
+Time taken for heapsort: 0.022441s
+For n = 1000000
+Time taken for insertion sort: 591.328213s
+Time taken for selection sort: 953.659453s
+Time taken for bubble sort: 2526.622023s
+Time taken for mergesort: 0.183550s
+Time taken for quicksort: 0.118978s
+Time taken for heapsort: 0.290072s

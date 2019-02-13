@@ -1,0 +1,12 @@
+Individual programs in C language for sorting algorithms given:
+1) Bubble sort
+2) Selection sort
+3) Insertion Sort
+4) Quick Sort
+5) Merge Sort
+6) Heap Sort
+
+File "fsorting.c" has code for all the above said algorithms
+The purpose of this file is to calculate the execution time for all the algorithms for comparing
+The execution time is calculated for 10000, 100000 & 1000000 elements for all the algorithms
+The output for this program is given in "fileSort.txt"
